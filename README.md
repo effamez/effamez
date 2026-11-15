@@ -1,6 +1,6 @@
 ### Hi there, I'm effamez 👋
 
-Full-Stack & AI Systems Developer passionate about building clean, high-performance, and scalable software solutions.
+Image - Video - Sound
 
 🔭 Building scalable Full-Stack & AI-driven applications.
 
